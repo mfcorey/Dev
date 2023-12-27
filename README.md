@@ -8,7 +8,7 @@ Hello! You have somehow discovered my hidden corner of the multiverse.
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="## Who Me?">Who Me?</a>
+      <a href="#who-me">Who Me?</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
