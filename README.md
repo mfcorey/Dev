@@ -40,3 +40,17 @@ Today I am fortunate to tell that you that I am a cybersecurity analyst with my 
 I acknowledge that this doesn't make me an expert, however, I am here to share what I have learned thus far. 
 
 This is my first crack at this type of thing, so buckle up for errors!
+
+
+
+<!-- ROADMAP -->
+## Roadmap
+
+- [x] Add Changelog
+- [x] Add back to top links
+- [ ] Add Additional Templates w/ Examples
+- [ ] Add "components" document to easily copy & paste sections of the readme
+- [ ] Multi-language Support
+    - [ ] Chinese
+    - [ ] Spanish
+
