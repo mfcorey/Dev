@@ -6,7 +6,6 @@ Hello! You have somehow discovered my hidden corner of the multiverse.
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
-  <ol>
     <li><a href="#who-are-you">Who Are You?</a>
     <li><a href="#anyone-can-do-this">Anyone Can Do This</a>
     <li><a href="#roles-within-infosec">Roles Within InfoSec</a>
