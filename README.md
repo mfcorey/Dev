@@ -2,6 +2,7 @@
 ## So, you're new here..
 Hello! You have somehow discovered my hidden corner of the multiverse. 
 
+I am glad that you made it, but want to explain who I am and why I am here to help you. 
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -12,8 +13,6 @@ Hello! You have somehow discovered my hidden corner of the multiverse.
     <li><a href="#roles-within-infosec">Roles Within InfoSec</a>
     <li><a href="#roadmap">Road Map</a></li></details>
 
-
-I am glad that you made it, but want to explain who I am and why I am here to help you. 
 
 ## Who are you?
 
