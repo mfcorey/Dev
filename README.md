@@ -12,6 +12,7 @@ Hello! You have somehow discovered my hidden corner of the multiverse.
     <li><a href="#anyone-can-do-this">Anyone Can Do This</a>
     <li><a href="#roles-within-infosec">Roles Within InfoSec</a>
     <li><a href="#roadmap">Road Map</a>
+    </li>  
   </ol>
 </details>
 
