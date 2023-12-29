@@ -9,12 +9,6 @@ Hello! You have somehow discovered my hidden corner of the multiverse.
   <ol>
     <li>
       <a href="#who-are-you">Who Are You?</a>
-  </ul>
-    </li>
-    <li>
-      <a href="
-      </ul>
-    </li>
     <li><a href="#anyone-can-do-this">Anyone Can Do This</a>
     <li><a href="#Roles-Within-InfoSec">Roles Within InfoSec</a>
     <li><a href="#roadmap">Road Map</a>
