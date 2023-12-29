@@ -22,7 +22,6 @@ Hello! You have somehow discovered my hidden corner of the multiverse.
 </details>
 
 
-
 I am glad that you made it, but want to explain who I am and why I am here to help you. 
 
 ## Who are you?
