@@ -10,7 +10,7 @@ Hello! You have somehow discovered my hidden corner of the multiverse.
     <li>
       <a href="#who-are-you">Who Are You?</a>
     <li><a href="#anyone-can-do-this">Anyone Can Do This</a>
-    <li><a href="#roles-within-infoSec">Roles Within InfoSec</a>
+    <li><a href="#roles-within-infosec">Roles Within InfoSec</a>
     <li><a href="#roadmap">Road Map</a>
   </ol>
 </details>
@@ -28,7 +28,7 @@ I have always had a passion for Cybersecurity and want to share my journey in ho
 
 I firmly believe that anyone can work in this field. If I told you that you did not need to go to college, or land an exclusive internship to achieve your goal, would you believe me? –That is exactly what I am here to tell you.
 
-## Roles Within InfoSec
+## Roles Within InfoSec.
 
 Classic documentation and study materials make it seem like these are very strict and rigid roles for cybersecurity, but really, we can boil it down to two: offensive and defensive*. 
 *In some cases, you may find yourself working both sides of the ball.
