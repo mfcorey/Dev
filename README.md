@@ -10,7 +10,8 @@ I am glad that you made it, but want to explain who I am and why I am here to he
     <li><a href="#who-are-you">Who Are You?</a>
     <li><a href="#anyone-can-do-this">Anyone Can Do This</a>
     <li><a href="#roles-within-infosec">Roles Within InfoSec</a>
-    <li><a href="#roadmap">Road Map</a></li></details>
+    <li><a href="#roadmap">Road Map</a></li>
+</details>
 
 
 ## Who are you?
