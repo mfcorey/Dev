@@ -51,6 +51,7 @@ Threat Intelligence Analyst: This role is responsible for researching and collec
     - [x] Fix broken nonsense
 - [ ] Add favicon
 - [ ] Add sections about tools and training resources
+- [ ] Make the ToC stand out
 - [ ] Add sections about certifications
 - [ ] Rewrite and clean up
 - [ ] Publish to production site
